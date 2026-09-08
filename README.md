@@ -10,6 +10,11 @@ Uso minha vivência com grandes volumes de dados fiscais e contábeis — apura�
 - Pós-graduação em Auditoria, Controladoria e Perícia Contábil — Unicesumar
 - **Análise e Desenvolvimento de Sistemas** — Uniasselvi (em andamento, previsão 2027.2)
 
+## Cursos em Dados/Tecnologia
+
+- Banco de Dados — IFSUL (40h, concluído)
+- Algoritmos e Lógica de Programação — Gustavo Guanabara (em andamento)
+
 ## Experiência
 
 **Contadora — Multiassiste Contabilidade** (2004 – atual)
