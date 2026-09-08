@@ -1,4 +1,4 @@
-# Olá, sou a Catarina 
+# Olá, sou Catarina 
 
 Contadora com quase 20 anos de experiência, em transição de carreira para **Dados e Tecnologia**.
 
